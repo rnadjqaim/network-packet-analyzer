@@ -19,7 +19,7 @@ this project is a basic network packet sniffer and analyzer written in python us
 1. **clone the repository**:
     ```bash
     git clone https://github.com/yourusername/network-packet-analyzer.git
-    cd network-packet-sniffer
+    cd  network-packet-analyzer
     ```
 
 2. **install the required python libraries**:
