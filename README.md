@@ -18,7 +18,7 @@ this project is a basic network packet sniffer and analyzer written in python us
 
 1. **clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/network-packet-sniffer.git
+    git clone https://github.com/yourusername/network-packet-analyzer.git
     cd network-packet-sniffer
     ```
 
@@ -31,7 +31,7 @@ this project is a basic network packet sniffer and analyzer written in python us
 
 1. **run the script**:
     ```bash
-    sudo python3 packet_sniffer.py
+    sudo python3 main.py
     ```
 
     **note**: running a packet sniffer typically requires elevated permissions. use `sudo` on linux or run as administrator on windows.
